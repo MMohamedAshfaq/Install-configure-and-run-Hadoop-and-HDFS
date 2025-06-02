@@ -128,4 +128,4 @@ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-X.Y.Z.j
 5.	Check the Output:
 bash
 
-hdfs dfs -cat /user/yourusername/output/part-r-00000
+hdfs dfs -cat /user/yourusername/output/part-r-00000   
